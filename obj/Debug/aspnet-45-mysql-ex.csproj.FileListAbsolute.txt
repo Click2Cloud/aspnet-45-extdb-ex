@@ -1,0 +1,5 @@
+C:\Users\shrutika.mendhe\aspnet-mysql-sample\bin\aspnet-mysql-sample.dll.config
+C:\Users\shrutika.mendhe\aspnet-mysql-sample\bin\aspnet-mysql-sample.dll
+C:\Users\shrutika.mendhe\aspnet-mysql-sample\bin\aspnet-mysql-sample.pdb
+C:\Users\shrutika.mendhe\aspnet-mysql-sample\obj\Debug\aspnet-mysql-sample.dll
+C:\Users\shrutika.mendhe\aspnet-mysql-sample\obj\Debug\aspnet-mysql-sample.pdb
